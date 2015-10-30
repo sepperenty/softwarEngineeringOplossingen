@@ -1,0 +1,25 @@
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.teerlingview.resources
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+c:\users\eigenaar\documents\visual studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+C:\Users\Eigenaar\Documents\Visual Studio 2015\Projects\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.scoreBoard.resources
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.pdb
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Properties.Resources.resources
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.scoreBoard.resources
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.teerlingview.resources
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwareEngeneering2015-2016\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwarEngineeringOplossingen\seppe-renty\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwarEngineeringOplossingen\seppe-renty\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\Eigenaar\Documents\School\mct3\SoftwareEngineering\softwarEngineeringOplossingen\seppe-renty\-opdracht-02-technische-analyse\yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
